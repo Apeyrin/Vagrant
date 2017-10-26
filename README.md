@@ -1,4 +1,7 @@
 # Script Vagrant
+-------------------------
+
+*La box xenial.box doit se situer dans le dossier de lancement du script*
 
 1- Créer sa box vagrant
 -------------------------
