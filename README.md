@@ -4,7 +4,8 @@
 
 1- Créer sa box vagrant
 -------------------------
-Helloz zazazz
+Pour pouvoir créer son dossier de travail et les fichiers nécessaires au travail avec vagrant, choisissez l'option "1".
+blblbl
 
 2- Lancer la vagrant et se connecter
 -------------------------
