@@ -1,7 +1,8 @@
 # Script Vagrant
 
 1- Créer sa box vagrant
-  testblblbl
+-------------------------
+Hello
 
 2- Lancer la vagrant et se connecter
 
