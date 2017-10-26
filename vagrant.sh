@@ -69,7 +69,7 @@ do
       echo -e "${rouge}Impossible. Ce dossier existe déjà !${stop}"
       echo -e "${bleu}=========================${stop}"
     #On regarde si l'input possède un espace dedans ou non
-  elif [[ ! "$Dir" =~ \s ]]
+    elif [[ "$Dir" =~ \s ]]
     then
       #s'il n'exite pas, on le crée et on init la vagrant
       mkdir $Dir 2>> $pathBox/errors.log
